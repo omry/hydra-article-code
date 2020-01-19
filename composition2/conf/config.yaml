@@ -1,2 +1,3 @@
 defaults:
   - dataset: cifar10
+  - optimizer: adam
