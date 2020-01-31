@@ -5,7 +5,7 @@ This repo contains a few examples from the Hydra article.
 Check out the repo, and install hydra with `pip install hydra-core`.
 
 You can then run those examples.
-See the article or the [Hydra website](https://hydra.cc) for more info.
+See the [article](https://medium.com/@pytorch/50583186b710) or the [Hydra website](https://hydra.cc) for more info.
 ```yaml
 $ python basic/my_app.py 
 dataset:
