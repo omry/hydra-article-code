@@ -1,6 +1,6 @@
 # hydra-article-code
 
-This repo contains a few examples from the Hydra article.
+This repo contains a few examples from [Hydra — A fresh look at configuration for machine learning projects](http://bit.ly/2Sdq2B3).
 
 Check out the repo, and install hydra with `pip install hydra-core`.
 
