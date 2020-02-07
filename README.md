@@ -4,8 +4,10 @@ This repo contains a few examples from [Hydra — A fresh look at configuration 
 
 Check out the repo, and install hydra with `pip install hydra-core`.
 
-You can then run those examples.
-See the [article](https://medium.com/@pytorch/50583186b710) or the [Hydra website](https://hydra.cc) for more info.
+You can then run these examples.
+
+See the [Hydra website](https://hydra.cc) for more info.
+
 ```yaml
 $ python basic/my_app.py 
 dataset:
